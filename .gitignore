@@ -18,8 +18,6 @@ Thumbs.db*
 /.farbox_auto_sync.*
 /__wechat.json
 /*.sqlite3
-<<<<<<< HEAD
-.db/
-=======
 .db/ 
->>>>>>> doc
+
+.vscode/
