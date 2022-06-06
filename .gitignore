@@ -1,5 +1,4 @@
-
-
+# metion
 .configs/
 .Archive/
 .markeditor/
@@ -18,6 +17,6 @@ Thumbs.db*
 /.farbox_auto_sync.*
 /__wechat.json
 /*.sqlite3
-.db/ 
-
+.db/
+# vs code
 .vscode/
