@@ -4,6 +4,12 @@
 
 ## watchlist
 
-- [ ] 期待加入刀具的3D模型
+- [ ] 期待加入刀具的 3D 模型
 
-    用Three.js渲染
+  用 Three.js 渲染
+
+  可交互
+
+- [ ] 期待那些材料用类图来表示
+
+https://www.sgss8.com/tpdq/12519378/
