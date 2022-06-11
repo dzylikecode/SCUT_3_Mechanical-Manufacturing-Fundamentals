@@ -147,7 +147,7 @@
 
     $$\mu = \tan \beta = \frac {F_f} { F_n }$$
 
-  - $gamma_o$角度的测定
+  - $\gamma_o$角度的测定
 
     $$\mu = \tan \beta - \gamma_o = \frac {F_p} { F_c }$$
 
