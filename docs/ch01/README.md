@@ -306,6 +306,21 @@ $\kappa_r$ 和 $\lambda_s$ 决定主切削刃的方位
   \end{aligned}
   $$
 
+  刀尖低于工件中心时，上述计算公式符号相反；镗孔时计算公式与车外圆相反。
+
+  换算到工作正交平面内，有：
+
+  $$
+  \begin{aligned}
+  \tan \theta_o &= \tan\theta_p \cos \kappa_r \\
+  &= \frac{h}{\sqrt{(d_w / 2)^2 - h^2} }\cos\kappa_r
+  \end{aligned}
+  $$
+
+  $$
+  \gamma _ { o e } = \gamma _ { o } \pm \theta _ { o } ,\quad \alpha _ { o e } = \alpha _ { o } \mp \theta _ { o }
+  $$
+
 - 刀杆安装倾斜对工作角度影响
 
   ![](assets/2022-06-09-17-24-00.png)
