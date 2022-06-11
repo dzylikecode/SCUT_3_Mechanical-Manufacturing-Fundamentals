@@ -245,9 +245,7 @@ $\kappa_r$ 和 $\lambda_s$ 决定主切削刃的方位
   - 副偏角$\kappa_r'$
   - 副刃倾角$\lambda_s'$
 
-  当 $\gamma_o$ 和 $\lambda_s$ 确定后, 前刀面的方位已经确定, 可以计算 $\alpha_o'$ 和 $\kappa_r'$
-
-  称为派生角度
+  当 $\gamma_o$ 和 $\lambda_s$ 确定后, 前刀面的方位已经确定。 $\gamma_o'$ 和 $\lambda_s'$ 可以由 $\gamma_o, \lambda_s, \kappa_r, \kappa_r'$ 换算，称为派生角度。
 
 - 楔角$\beta_o$
 
