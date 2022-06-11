@@ -245,9 +245,7 @@ $\kappa_r$ 和 $\lambda_s$ 决定主切削刃的方位
   - 副偏角$\kappa_r'$
   - 副刃倾角$\lambda_s'$
 
-  当 $\gamma_o$ 和 $\lambda_s$ 确定后, 前刀面的方位已经确定, 可以计算 $\alpha_o'$ 和 $\kappa_r'$
-
-  称为派生角度
+  当 $\gamma_o$ 和 $\lambda_s$ 确定后, 前刀面的方位已经确定。 $\gamma_o'$ 和 $\lambda_s'$ 可以由 $\gamma_o, \lambda_s, \kappa_r, \kappa_r'$ 换算，称为派生角度。
 
 - 楔角$\beta_o$
 
@@ -306,6 +304,21 @@ $\kappa_r$ 和 $\lambda_s$ 决定主切削刃的方位
   \gamma _ { p e } &= \gamma _ { p } + \theta _ { p } \\
   \alpha _ { p e } &= \alpha _ { p } - \theta _ { p }
   \end{aligned}
+  $$
+
+  刀尖低于工件中心时，上述计算公式符号相反；镗孔时计算公式与车外圆相反。
+
+  换算到工作正交平面内，有：
+
+  $$
+  \begin{aligned}
+  \tan \theta_o &= \tan\theta_p \cos \kappa_r \\
+  &= \frac{h}{\sqrt{(d_w / 2)^2 - h^2} }\cos\kappa_r
+  \end{aligned}
+  $$
+
+  $$
+  \gamma _ { o e } = \gamma _ { o } \pm \theta _ { o } ,\quad \alpha _ { o e } = \alpha _ { o } \mp \theta _ { o }
   $$
 
 - 刀杆安装倾斜对工作角度影响
